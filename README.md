@@ -1,3 +1,3 @@
 # patika-homeworks
-Hey, I am learning nodejs on patika.dev and I save my homeworks this repository.
+Hey, I am learning nodejs on patika.dev and I save my homeworks this repository.\
 https://app.patika.dev/oktayparlak
